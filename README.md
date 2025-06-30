@@ -1,41 +1,12 @@
-import time, os
+<h1 align="center">🔥 PARV RAWAT 🔥</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Decoder%20%7C%20Pydroid3%20%7C%20Telegram-blue?style=for-the-badge&logo=android"/>
+</p>
 
-def rgb_banner():
-    banner = r"""
-8888888b.     d8888 8888888b.  888     888                     
-888   Y88b   d88888 888   Y88b 888     888                     
-888    888  d88P888 888    888 888     888                     
-888   d88P d88P 888 888   d88P Y88b   d88P                     
-8888888P" d88P  888 8888888P"   Y88b d88P                      
-888      d88P   888 888 T88b     Y88o88P                       
-888     d8888888888 888  T88b     Y888P                        
-888    d88P     888 888   T88b     Y8P                         
-                                                               
-                                                               
-                                                               
-8888888b.         d8888 888       888        d8888 88888888888 
-888   Y88b       d88888 888   o   888       d88888     888     
-888    888      d88P888 888  d8b  888      d88P888     888     
-888   d88P     d88P 888 888 d888b 888     d88P 888     888     
-8888888P"     d88P  888 888d88888b888    d88P  888     888     
-888 T88b     d88P   888 88888P Y88888   d88P   888     888     
-888  T88b   d8888888888 8888P   Y8888  d8888888888     888     
-888   T88b d88P     888 888P     Y888 d88P     888     888     
-                                                               
-                                                               
-                                                                  
+<p align="center">
+  
 
-        🚀 PARVRAWAT • Python Dev • Decoder • Bot Builder 🚀
-"""
-    colors = ['\033[91m', '\033[93m', '\033[92m', '\033[96m', '\033[94m', '\033[95m']
-    reset = '\033[0m'
-    for _ in range(3):
-        for c in colors:
-            os.system('cls' if os.name == 'nt' else 'clear')
-            print(c + banner + reset)
-            time.sleep(0.3)
-
-rgb_banner()
 
 
 
