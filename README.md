@@ -1,17 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=🔥+P+A+R+V+🔴+R+A+W+A+T+🔥;🧠+Python+Developer+and+Decoder;🎯+Tech+Tools+Creator+%7C+BCA+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=%3Chtml%3E+%7BStylish+Coder%7D;public+class+ParvRawat+%7B+🔥+%7D;System.out.println(%22Welcome+to+GitHub%22);%7D" alt="Typing SVG Banner" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/dP8K5G3r_R8AAAAC/hacker.gif" width="400"/>
+  <img src="https://media.tenor.com/oFtvnsmGbtQAAAAC/hacker-code.gif" width="400" alt="code gif"/>
 </p>
 
 <p align="center">
-  <b><i>🔥 RGB Inspired Stylish Terminal Banner for GitHub</i></b><br>
-  <strong><code>𝙋𝘼𝙍𝙑 𝙍𝘼𝙒𝘼𝙏</code></strong><br>
-  <span style="color: #ff0000;">⊱━━━━━━.⋅ RGB HACK STYLE ⋅.━━━━━━⊰</span>
+  <strong>🚀 Parv Rawat | Java & Python Developer | Tool Creator 🔐</strong><br>
+  <i>📌 Inspired by HTML, Java, Terminal & RGB Styling</i>
 </p>
-
 
 <img align="right" height="450" src="https://images.steamusercontent.com/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
