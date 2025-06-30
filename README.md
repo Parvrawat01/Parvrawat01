@@ -24,7 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Parvrawat01&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -35,7 +34,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.steamusercontent.com/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="right" height="450" src="https://images.steamusercontent.com/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
@@ -69,7 +68,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
