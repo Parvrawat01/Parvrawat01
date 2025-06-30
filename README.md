@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=%3Chtml%3E+%7BStylish+Coder%7D;public+class+ParvRawat+%7B+🔥+%7D;System.out.println(%22Welcome+to+GitHub%22);%7D" alt="Typing SVG Banner" />
 </h1>
-<img src="C:\Users\zenot\Music\flamingtext_com-40373871008.png" width="100%" />
+<img src="https://s3.ezgif.com/tmp/ezgif-30f01a7604fc2e.gif" width="100%" />
 
 <p align="center">
   <img src="https://media.tenor.com/oFtvnsmGbtQAAAAC/hacker-code.gif" width="400" alt="code gif"/>
