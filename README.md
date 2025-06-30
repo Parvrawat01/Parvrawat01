@@ -1,3 +1,48 @@
+# RGB Animated Banner with name PARVRAWAT (Pydroid3 Compatible)
+import time
+import sys
+import os
+
+def rgb_banner(text):
+    colors = [
+        '\033[91m',  # Red
+        '\033[93m',  # Yellow
+        '\033[92m',  # Green
+        '\033[96m',  # Cyan
+        '\033[94m',  # Blue
+        '\033[95m',  # Magenta
+    ]
+    reset = '\033[0m'
+    for i in range(3):  # Repeat animation
+        for color in colors:
+            os.system("clear" if os.name == "posix" else "cls")
+            print(f"""
+{color}
+██████╗  █████╗ ██████╗ ██╗   ██╗██████╗ ██████╗  █████╗ ██╗    ██╗ █████╗ ████████╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║╚════██╗╚════██╗██╔══██╗██║    ██║██╔══██╗╚══██╔══╝
+██████╔╝███████║██████╔╝██║   ██║ █████╔╝ █████╔╝███████║██║ █╗ ██║███████║   ██║   
+██╔═══╝ ██╔══██║██╔═══╝ ██║   ██║ ╚═══██╗ ╚═══██╗██╔══██║██║███╗██║██╔══██║   ██║   
+██║     ██║  ██║██║     ╚██████╔╝██████╔╝██████╔╝██║  ██║╚███╔███╔╝██║  ██║   ██║   
+╚═╝     ╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   
+
+           🚀 WELCOME TO PARVRAWAT’S GITHUB PROFILE 🚀
+
+{reset}
+""")
+            time.sleep(0.3)
+
+rgb_banner("PARVRAWAT")
+
+
+
+<img align="right" height="450" src="https://images.steamusercontent.com/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
+<h2 align="center">🚀 Welcome to PARVRAWAT's GitHub! 🚀</h2>
+
+<p align="center">
+  <img src="https://your-link-to-gif.gif" alt="PARVRAWAT Animated Banner" />
+</p>
+ 
 # 💫 About Me:
 ***********<br>👨‍💻 About Me<br><br>Hi, I'm Parv, a passionate BCA student and self-taught developer based in Delhi, India 🇮🇳. I love building Python-based tools focused on code decoding, encoding, obfuscation analysis, and automation. My specialties include:<br><br>🧠 Marshal, Zlib, Base64, Lambda decoding<br><br>🔐 Python Obfuscation & Reverse Engineering<br><br>⚙️ Building automation tools & terminal UIs<br><br>📱 Creating mobile-friendly Python tools (Pydroid3 compatible)<br><br><br>I enjoy exploring deep technical concepts and creating tools that help others understand the inner workings of code. I'm always learning, experimenting, and improving.<br><br><br>***********<br><br>💼 What I Do<br><br>I build tools that can:<br><br>Decode obfuscated Python scripts<br><br>Encode/decode using marshal, zlib, base64, lambda, and more<br><br>Analyze malicious scripts for educational & security research<br><br>Simulate hacking-style UIs with professional terminal effects<br><br>Integrate with Telegram Bots for alerts and automation<br><br><br>> 🛠️ All tools are for educational purposes only. Please use responsibly — misuse is your own responsibility.<br><br><br><br> ***********<br><br>📩 Let's Connect<br><br>If you have any questions, feedback, or ideas, feel free to reach out. I'm open to helping with:<br><br>Code debugging<br><br>Tool suggestions<br><br>Telegram Bot integration<br><br>Python automation<br><br><br>📬 Telegram: @Charon_1 👈🏻💖<br>🌐 Location: Delhi, India<br>📚 Education: Bachelor of Computer Applications (BCA)<br><br><br>---<br><br>🧠 Motto<br><br>> "Code isn't just logic — it's a way to understand how the world works from the inside out."<br><br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
@@ -34,7 +79,7 @@
 
 ###
 
-<img align="right" height="450" src="https://images.steamusercontent.com/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
 
 ###
 
