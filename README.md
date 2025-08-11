@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://s3.ezgif.com/tmp/ezgif-30f01a7604fc2e.gif" width="100%" />
+<img src="https://saamarketing.co.uk/wp-content/uploads/2022/08/The-Different-Types-of-Technology-GIF.gif" width="100%" />
 </h1>
 <p align="center">
   <img src="https://media.tenor.com/oFtvnsmGbtQAAAAC/hacker-code.gif" width="400" alt="code gif"/>
